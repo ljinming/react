@@ -31,7 +31,6 @@ renter(){
            <p>Some contents...</p>
            <p>Some contents...</p>
         </Modal>
-     
         </div>
     )
 }
