@@ -1,0 +1,34 @@
+
+.box{
+    width: 800px;
+    height:100%;
+    margin:auto;
+    border:1px solid #000000;
+}
+.header{
+    width:100%;
+    height:30%;
+    border:1px solid blueviolet;
+}
+.header-seach{
+    width:800px;
+}
+.item{
+    display:flex;
+    width:800px;
+    height:30px;
+    justify-content:space-between;
+}
+.item>td{
+    width:80px;
+    text-align:start;
+
+}
+.form-label{
+    width:600px;
+    height:100%;
+    text-align:center;
+}
+.form-label>input{
+    width:60%;
+}
